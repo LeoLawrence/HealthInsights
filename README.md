@@ -2,9 +2,9 @@
 
 A beautiful, Apple-inspired health tracking app for iOS that provides advanced insights into your sleep, recovery, and overall wellness using Apple Watch data.
 
-![iOS](https://img.shields.io/badge/iOS-16.0+-blue.svg)
+![iOS](https://img.shields.io/badge/iOS-18.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue)
 
 ## Features
 
@@ -213,7 +213,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License in its current state - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -228,7 +228,7 @@ Built by Leo Lawrence
 
 ## Disclaimer
 
-**This app is for informational purposes only and is not intended to diagnose, treat, cure, or prevent any disease. Always consult with a qualified healthcare professional for medical advice.**
+**This app is for informational purposes only and is not intended to diagnose, treat, cure, or prevent any disease. Always consult with a qualified healthcare professional for medical advice. This app is also not affiliated with any brands or companies.**
 
 ---
 
